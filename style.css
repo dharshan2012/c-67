@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+#apps{
+    background-color: red;
+}
+
+#games{
+    background-color: blue;
+}
+
+#micro-bit{
+ background-color: blueviolet;
+}
+
+.line{
+    width: 100px;
+    height: 3px;
+    background-color: black;
+    margin: 10px auto;
+    
+}
+
+#div1{
+    background-color: aqua;
+}
+
